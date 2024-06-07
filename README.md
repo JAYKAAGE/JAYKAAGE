@@ -1,8 +1,12 @@
 # **Jayden Brewton** - ***IT Specialist Certified (Java)***
 A young, novice computer scientist from Flint, MI; looking to learn new skills and broaden my horizons. Currently studying at Grand Blanc High School, Class of 2025.
 ---
+![Java Logo](![java-logo-1])
 ## Technical Skills
--
+- Java
+- HTMK
+- "Python"
+- Basic Operation Machinery
 ---
 ## Experience/Achievements
 - Java Certified (2024)
