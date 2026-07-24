@@ -1,4 +1,4 @@
-# **Jayden Brewton** - ***IT Specialist Certified (Java)***
+# **Jayden Brewton** - ***Full Stack Developer (UI/UX)***
 A young, novice computer scientist from Flint, MI; looking to learn new skills and broaden my horizons. Currently studying at Kettering University, Class of 2029.
 ---
 
@@ -7,7 +7,7 @@ A young, novice computer scientist from Flint, MI; looking to learn new skills a
 - CSS
 - JavaScript
 - Java
-- Python
+- Node.JS
 - API Integration
 ---
 ## Experience/Achievements
@@ -18,7 +18,7 @@ A young, novice computer scientist from Flint, MI; looking to learn new skills a
 - AP Computer Science Principals (2025)
 ---
 ## Contact Me
-Business Email:  <a href='mailto:jayden.brewton@gmail.com'>jayden.brewton@gmail.com</a></p>
+Business Email:  <a href='mailto:brewtecc@gmail.com'>brewtecc@gmail.com</a></p>
 School Email:  <a href='mailto:brew9464@kettering.edu'>brew9464@kettering.edu</a></p>
 LinkedIn:    <a href="https://www.linkedin.com/in/JaydenBrewton/">
    	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
